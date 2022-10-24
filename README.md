@@ -26,3 +26,5 @@ This project is made so all the elements are displayed correctly on popular scre
 **GitHub**
 
 - [Link to my projects code on GitHub](https://github.com/slip4k/se_project_aroundtheus)
+
+- [Link to the project on GitHub Pages](https://slip4k.github.io/se_project_aroundtheus/)
