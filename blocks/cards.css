@@ -14,7 +14,7 @@
   margin: 0;
 }
 
-.card {
+/* .card {
   display: flex;
   flex-direction: column;
   border-top-left-radius: 10px;
@@ -62,9 +62,9 @@
 }
 
 .card__like-button:hover {
-  opacity: 0.7;
+  opacity: 0.6;
   cursor: pointer;
-}
+} */
 
 @media screen and (max-width: 548px) {
   .cards {
