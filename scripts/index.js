@@ -72,7 +72,7 @@ function handleProfileFormSubmit(evt) {
   evt.preventDefault();
   profileTitle.textContent = titleInput.value;
   profileDescription.textContent = descriptionInput.value;
-  closePopup(popup);
+  closePopup(profileEditModal);
 }
 profileForm.addEventListener("submit", handleProfileFormSubmit);
 
@@ -87,7 +87,7 @@ function handlePreviewClick(data) {
   const modalPreviewPictureCaption =
     previewPopup.querySelector(".modal__caption");
   modalPreviewImage.setAttribute("src", previewLink);
-  modalPreviewAlt.setAttribute("alt", previewAlt);
+  modalPreviewImage.setAttribute("alt", previewAlt);
   modalPreviewPictureCaption.textContent = data.name;
   openPopup(previewPopup);
 }
