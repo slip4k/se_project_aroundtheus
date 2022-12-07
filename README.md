@@ -12,6 +12,7 @@ This project is made so all the elements are displayed correctly on popular scre
 - Responsive Layout adn Adaptive Design
 - CSS Transitions and Animations
 - BEM File Structure and Class naming
+- JavaScript Functionalities
 
 ### Improvements to be made
 

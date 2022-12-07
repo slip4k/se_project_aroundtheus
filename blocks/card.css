@@ -10,6 +10,7 @@
 .card__image {
   height: 282px;
   width: 282px;
+  cursor: pointer;
 }
 
 .card__description {
@@ -68,6 +69,6 @@
   cursor: pointer;
 }
 
-.card__delete:hover {
+.card__delete-button:hover {
   opacity: 0.5;
 }
